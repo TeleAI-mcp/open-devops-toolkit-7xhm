@@ -1,1 +1,3 @@
-# open-devops-toolkit-7xhm
+# Open Devops Toolkit 7Xhm
+
+Automated issue comment bot repository.
